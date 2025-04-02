@@ -1,0 +1,5 @@
+name: VeynosChallangeKillTeleport
+version: '${project.version}'
+main: eu.veyno.veynoschallangekillteleport.VeynosChallangeKillTeleport
+api-version: '1.21'
+depend: [VeynosChallangeCore]
