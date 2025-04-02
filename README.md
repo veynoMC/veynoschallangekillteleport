@@ -15,17 +15,6 @@ The only way you can move on the x and z axis is by killing entities and beeing 
 2. place the file in the `/plugins/` folder of your server
 4. restart the Server or load the plugin
 
-## Configuration
-
-```yaml
-comming_soon: true
-```
-
-## permissions
-
-- `veynoschallengecore.challengestate` - allows the user to activate or deactivate the challenge
-
-
 ## License
 
 You are free to use my plugin for personal use as long as you do not claim it as your own, redistribute it, or attempt to commercialize it. View the [LICENSE](LICENSE) file for mor details.
