@@ -2,18 +2,16 @@
 
 The only way you can move on the x and z axis is by killing entities and beeing teleported to their location
 
-![Version](https://img.shields.io/github/v/release/veynomc/veynoschallengecore)
+![Version](https://img.shields.io/github/v/release/veynomc/veynoschallengekillteleport)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)
 
-## Features
+## Requireements
 
-- Feature 1: Lorem ipsum
-- Feature 2: Lorem ipsum
-- Feature 3: Lorem ipsum
+- [VeynosChallengeCore](https://github.com/veynomc/veynoschallengecore)
 
 ## Installation
 
-1. Download the latest jar from the [Releases](https://github.com/veynoMC/veynoschallengecore/releases) section
+1. Download the latest jar from the [Releases](https://github.com/veynoMC/veynoschallengekillteleport/releases) section
 2. place the file in the `/plugins/` folder of your server
 4. restart the Server or load the plugin
 
@@ -22,27 +20,6 @@ The only way you can move on the x and z axis is by killing entities and beeing 
 ```yaml
 comming_soon: true
 ```
-# Usage
-```xml
-<dependency>
-    <groupId></groupId>
-    <artifactId></artifactId>
-    <version></version>
-</dependency>
-```
-```xml
-<repository>
-    <id></id>
-    <url></url>
-</repository>
-```
-
-## Commands
-
-| Command | Description | Permission |
-|--------|--------------|--------------|
-| `/start` | starts the challange. all installed challenges will be active | veynoschallengecore.challengestate |
-| `/pause` | pauses the challange. all installed challenges will pause | veynoschallengecore.challengestate |
 
 ## permissions
 
