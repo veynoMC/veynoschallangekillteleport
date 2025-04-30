@@ -1,6 +1,6 @@
 # VeynosChallengeKillTeleport
 
-The only way you can move on the x and z axis is by killing entities and beeing teleported to their location
+With this Extension the only way you can move on the x and z axis is by killing entities and beeing teleported to their location
 
 ![Version](https://img.shields.io/github/v/release/veynomc/veynoschallengekillteleport)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)
